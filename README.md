@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nitya Parikh
-- 👀 I’m interested in Machine Learning, artificial Intelligence and computer vision 
-- 🌱 I’m currently learning Machine Learning, Artificial Intelligence and computer vision
+- 👀 I’m interested in Software Engineering with strong enthusiasm in machine learning and data engineering.  
+- 🌱 I’m currently looking for full-time opportuanity as a software devloper.
 - 📫 How to reach me:
-  Mail ID: nityaparikh2@gmail.com
+  Mail ID: nityaatusa@gmail.com
 
 <!---
 nit15/nit15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
